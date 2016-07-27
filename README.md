@@ -13,9 +13,9 @@ The purpose for me to write this scripts is to allocate each person randomly.For
 
 Firstly, Let's import some **basic modules!**
 
-'''python
+```python
 
-\\import time,random,math
+import time,random,math
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -28,4 +28,4 @@ Weekdays = [i+1 for i in range(7)]                                         #一�
 Weekdays_Aug = [Weekdays[i%7] for i in range(31)]                          #每月对应周几
 Schedule['Weekdays']=Weekdays_Aug                                          #加入到dataframe中
 Schedule=Schedule[Schedule['Weekdays']<=5]                                 #筛选出工作日
-'''
+```
