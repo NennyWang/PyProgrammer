@@ -1,6 +1,6 @@
 # PyProgrammer
 # To make a Random List
-As we all know the 973 project has been initiated. the memebers of scanning group includes:
+众所周知973项目已经正式开始了，扫描组的组员包括以下人员:
 - Yinshan Wang(Group Leader）
 - Jinfeng Wu
 - Quan Zhou
@@ -9,9 +9,9 @@ As we all know the 973 project has been initiated. the memebers of scanning grou
 - Bin Lu
 - Jiaqi Gao
 
-The purpose for me to write this scripts is to allocate each person randomly.For more information please see [LFCD](http://lfcd.psych.ac.cn/ "Title")
+写这段代码的目的是为了练习如何分配组员，我们课题组的网站为 [LFCD](http://lfcd.psych.ac.cn/ "Title")
 
-Firstly, Let's import some **basic modules!**
+首先我们先导入Python的**基本模块** 
 
 ```python
 
